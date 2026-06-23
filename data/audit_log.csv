@@ -1,0 +1,7 @@
+check_name,run_timestamp,total_records_checked,violations_found,violation_rate_percent,article_reference
+Missing Consent,2026-06-23 11:48:41,10000,734,7.34,GDPR Art.6 | DPDP S.6
+Retention Exceeded,2026-06-23 11:48:41,10000,3991,39.91,GDPR Art.5(1)(e) | DPDP S.8
+Vendor Share No Consent,2026-06-23 11:48:41,10000,214,2.14,GDPR Art.5(1)(b) | DPDP S.6
+Duplicate Transaction ID,2026-06-23 11:48:41,10000,6348,63.48,GDPR Art.5(1)(d)
+Child No Parental Consent,2026-06-23 11:48:41,10000,307,3.07,GDPR Art.8 | DPDP S.9
+Invalid Email Format,2026-06-23 11:48:41,10000,285,2.85,GDPR Art.5(1)(d)
